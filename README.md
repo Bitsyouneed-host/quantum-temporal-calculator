@@ -5,6 +5,17 @@ A futuristic date calculator with dual themes: Victorian Steampunk and Cyberpunk
 ![Steampunk Theme](https://img.shields.io/badge/Theme-Steampunk-8B4513?style=for-the-badge)
 ![Neon Theme](https://img.shields.io/badge/Theme-Neon-00FFFF?style=for-the-badge)
 
+## 📱 Screenshots
+
+### ⚙️ Steampunk Theme
+![Steampunk Theme](screenshots/steampunk-theme.png)
+*Victorian brass aesthetics with spinning gears*
+
+### 🌈 Neon Theme
+![Neon Theme](screenshots/neon-theme.png)
+*Cyberpunk TRON-style with glowing effects*
+
+
 ## ✨ Features
 
 - 🎨 **Dual Theme System**: Switch between Steampunk and Neon aesthetics with a single click
