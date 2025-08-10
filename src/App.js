@@ -123,7 +123,7 @@ export default function DateCounterApp() {
         </div>
       </div>
 
-      {/* Decorative elements */}
+      {/* Decorative elements this is where you add more theams */}
       {theme === 'steampunk' && (
         <>
           <div className="absolute top-10 left-10 opacity-20">
