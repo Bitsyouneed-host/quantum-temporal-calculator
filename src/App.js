@@ -411,7 +411,7 @@ export default function DateCounterApp() {
               </div>
             )}
 
-            {/* Controls - Date Mode */}
+            {/* Controls - Date Mode  Important */}
             {mode === 'date' && (
               <div className="space-y-4">
                 <div className="space-y-3">
